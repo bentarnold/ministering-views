@@ -5,7 +5,7 @@ Instructions:
 1. Log in to the LCR using your credentials.
 2. Navigate to https://lcr.churchofjesuschrist.org/services/umlu/report/member-list?lang=eng&unitNumber=[your_unit_number_here!]
   (Note: replace "[your unit number here!]" with your ward's unit number, e.g. ...unitNumber=783947)
-3. Save the webpage as "member-list.json" in the same directory as ministering_tool.py
+3. Save the webpage as "member-list.json" in the same directory as ministering_views.py
 4. Navigate to https://lcr.churchofjesuschrist.org/ministering?lang=eng&type=EQ
 5. Save the webpage with the default name "Ministering Brothers.html"
 6. Navigate to https://lcr.churchofjesuschrist.org/ministering?lang=eng&type=RS
